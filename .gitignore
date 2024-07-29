@@ -1,3 +1,14 @@
+#Custom
+ledger.db
+drivers/*
+bin/
+lib64
+pyvenv.cfg
+secret.key
+Scripts/
+.vscode/
+launch.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
